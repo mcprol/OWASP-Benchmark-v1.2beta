@@ -1,0 +1,2 @@
+﻿
+CALL mvn test -Pcrawler
